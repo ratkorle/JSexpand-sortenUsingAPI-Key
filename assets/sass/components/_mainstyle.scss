@@ -1,0 +1,79 @@
+.tittle {
+  color: white;
+}
+.jsexample {
+  padding-top: 50px;
+}
+.image-container {
+  overflow: hidden;
+}
+
+.image-container img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  padding-top: 20px;
+}
+.black {
+  background-color: #333333;
+}
+
+#input {
+  width: 219px;
+  height: 37px;
+  border-radius: 3.2px;
+  border: solid 0.8px white;
+  background-color: inherit;
+  display: block;
+  margin: auto;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: white;
+}
+
+#shorten {
+  width: 91px;
+  height: 37px;
+  border-radius: 3.2px;
+  border: solid 0.8px white;
+  background-color: inherit;
+  margin-top: 48px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: white;
+  margin-right: -3px;
+}
+
+#expand {
+  width: 91px;
+  height: 37px;
+  border-radius: 3.2px;
+  background-color: #1f233e;
+  border: solid 0.8px white;
+  margin-top: 48px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: -3px;
+}
+
+#responseField {
+  min-width: 191px;
+  min-height: 120px;
+  max-width: 400px;
+  border: solid 2px white;
+  margin: auto;
+  margin-top: 25px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: white;
+  overflow-wrap: break-word;
+}
