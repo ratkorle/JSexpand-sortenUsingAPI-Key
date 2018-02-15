@@ -5,7 +5,6 @@ const projection = 'FULL';
 const url = 'https://www.googleapis.com/urlshortener/v1/url';
 
 // Some page elements
-
 const $inputField = $('#input');
 const $expandButton = $('#expand');
 const $shortenButton = $('#shorten');
